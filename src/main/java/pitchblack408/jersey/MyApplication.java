@@ -24,7 +24,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 public class MyApplication extends ResourceConfig {
     public MyApplication() {
         // Define the package which contains the service classes.
-        packages("mmartin.jersey.services");
+        packages("pitchblack408.jersey.services");
     }
 }
 
